@@ -1,3 +1,4 @@
+//674244112 เจษฎา เทียนทอง com-sci (chesada thianthong)
 #include <stdio.h>
 
 main(){
@@ -7,3 +8,4 @@ main(){
     printf("------------------------------\n");
     getchar();
 }
+

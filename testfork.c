@@ -1,3 +1,4 @@
+//674244112 เจษฎา เทียนทอง 
 #include <windows.h>
 #include <stdio.h>
 
@@ -41,3 +42,4 @@ int main() {
 
     return 0;
 }
+

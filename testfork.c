@@ -1,4 +1,4 @@
-//674244112 เจษฎา เทียนทอง 
+//674244112 เจษฎา เทียนทอง com-sci (chesada thianthong)
 #include <windows.h>
 #include <stdio.h>
 
@@ -42,4 +42,5 @@ int main() {
 
     return 0;
 }
+
 
